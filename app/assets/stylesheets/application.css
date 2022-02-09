@@ -48,7 +48,7 @@ h2{
 
 h4{
   margin-top:5px ;
-  text-align: left;
+  text-align:left;
 }
 
 
@@ -98,7 +98,7 @@ body{
 
 .link{
   display: flex;
-  text-align: : c;
+  text-align: center;
 }
 
 a:hover{
